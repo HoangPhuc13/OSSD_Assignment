@@ -8,3 +8,5 @@ YouTube Downloader là một ứng dụng desktop đơn giản và dễ sử d�
 - **Hiển thị Tiến trình:** Hiển thị tiến độ tải xuống thông qua thanh tiến trình, giúp người dùng theo dõi quá trình tải xuống một cách thuận tiện.
 - **Thông báo Trạng thái:** Cung cấp thông báo trạng thái để thông báo cho người dùng khi quá trình tải xuống hoàn tất hoặc gặp lỗi.
 
+# 3. Cài đặt
+[Truy cập website để tải ứng dụng](https://hoangphuc13.github.io/Website-Download-Youtube-Downloader/)
