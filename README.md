@@ -1,3 +1,4 @@
+# Link báo cáo Latex: [https://www.overleaf.com/read/mbsyypdvwsfr#abd87e](https://www.overleaf.com/read/mbsyypdvwsfr#abd87e)
 # 1. Mô tả Youtube Downloader
 YouTube Downloader là một ứng dụng desktop đơn giản và dễ sử dụng cho phép người dùng tải xuống video từ YouTube một cách nhanh chóng và dễ dàng. Với giao diện người dùng thân thiện, người dùng có thể sao chép và dán URL của video từ YouTube vào ứng dụng, chọn độ phân giải mong muốn và đường dẫn lưu trữ, sau đó bắt đầu quá trình tải xuống chỉ trong vài bước đơn giản.
 
